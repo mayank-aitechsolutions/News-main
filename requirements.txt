@@ -4,4 +4,7 @@ numpy
 sentence_transformers
 keybert
 fastapi
-docx
+python-docx 
+langchain
+langchain_community
+langchain_ollama
